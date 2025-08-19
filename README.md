@@ -3,6 +3,8 @@
 ## Descrição
 Projeto de estudo aplicando conceitos fundamentais de CSS moderno: **container**, **flexbox** e **variáveis CSS**. O Travelgram é uma página de perfil de viagens que demonstra boas práticas de layout responsivo e organização de código CSS.
 
+![Image](https://github.com/user-attachments/assets/e1f6cbb3-152b-4ac0-9b0e-056549f2c7c3)
+
 ## Conceitos Aplicados
 
 ### 1. **Container (Contêiner)**
